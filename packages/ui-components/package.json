@@ -1,0 +1,9 @@
+{
+  "name": "@safewill/ui-components",
+  "private": true,
+  "version": "1.0.0",
+  "main": "nuxt.js",
+  "peerDependencies": {
+    "nuxt": "3.0.0"
+  }
+}
