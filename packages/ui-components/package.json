@@ -7,8 +7,7 @@
     "nuxt": "3.0.0"
   },
   "devDependencies": {
-    "@nuxtjs/storybook": "^4.3.2",
-    "nuxt": "^3.0.0",
-    "storybook": "^6.5.14"
+    "@storybook/builder-vite": "^0.2.5",
+    "nuxt": "^3.0.0"
   }
 }
