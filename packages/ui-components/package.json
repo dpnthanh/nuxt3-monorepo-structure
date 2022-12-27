@@ -5,5 +5,10 @@
   "main": "nuxt.js",
   "peerDependencies": {
     "nuxt": "3.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/storybook": "^4.3.2",
+    "nuxt": "^3.0.0",
+    "storybook": "^6.5.14"
   }
 }

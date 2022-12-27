@@ -5,7 +5,7 @@
 </template>
 <style>
 .base-button {
-  background-color: #000;
+  background-color: #f00;
   color: #fff;
   padding: 10px 20px;
   border-radius: 5px;

@@ -1,6 +1,6 @@
 <template>
   <div>
     <h1>Partnership app</h1>
-    <ru-button>test</ru-button>
+    <ru-base-button>test</ru-base-button>
   </div>
 </template>
